@@ -45,9 +45,9 @@
         Up,
         //% blockId="Start" block="Start"
         Start,
-        //% blockId="Analog_Left" block="Right Stick"
+        //% blockId="Analog_Left" block="Left Stick"
         Analog_Left,
-        //% blockId="Analog_Right" block="Left Stick"
+        //% blockId="Analog_Right" block="Right Stick"
         Analog_Right,
         //% blockId="Select" block="Select"
         Select,
